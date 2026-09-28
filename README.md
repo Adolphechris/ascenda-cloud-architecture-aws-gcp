@@ -1,20 +1,14 @@
-# ☁️ ASCENDA IT — Cloud Architecture AWS & GCP (Palier 8)
+# ☁️ ASCENDA IT — AWS & GCP Multi-Cloud Architecture
 
-![AWS](https://img.shields.io/badge/Cloud-AWS%20Solutions%20Architect-FF9900?style=flat&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/Cloud-GCP%20Professional-4285F4?style=flat&logo=google-cloud)
+![AWS](https://img.shields.io/badge/Cloud-AWS%20Enterprise-FF9900?style=flat&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/Cloud-GCP%20Enterprise-4285F4?style=flat&logo=google-cloud)
 
-Bienvenue dans mon laboratoire d'**Architecture Cloud Multi-Région (Palier 8 du programme ASCENDA IT)**.
-
----
-
-## 🗂️ Structure Prévue
-
-- `00-aws-architecture/` : VPC, EC2 Auto-Scaling, IAM, S3, RDS Multi-AZ, CloudFront.
-- `01-gcp-infrastructure/` : Google Kubernetes Engine (GKE), Cloud Run, BigQuery.
-- `02-multi-cloud-terraform/` : Infrastructure as Code multi-cloud à haute disponibilité.
+Ce dépôt contient les **architectures Cloud multi-régions à haute disponibilité** conçues pour l'infrastructure d'ASCENDA IT.
 
 ---
 
-## 🎯 Certifications Visées
-- **AWS Certified Solutions Architect – Associate / Professional**
-- **Google Cloud Professional Cloud Engineer**
+## 🗂️ Modules & Architecture
+
+- `00-aws-architecture/` : VPC Multi-AZ, EC2 Auto-Scaling, RDS High Availability & CloudFront CDN.
+- `01-gcp-infrastructure/` : Google Kubernetes Engine (GKE), Serverless Cloud Run & BigQuery.
+- `02-multi-cloud-terraform/` : Infrastructure as Code résiliente et distribuée.
