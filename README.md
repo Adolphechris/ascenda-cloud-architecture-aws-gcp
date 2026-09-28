@@ -9,9 +9,9 @@ Bienvenue dans mon laboratoire d'**Architecture Cloud Multi-Région (Palier 8 du
 
 ## 🗂️ Structure Prévue
 
--  : VPC, EC2 Auto-Scaling, IAM, S3, RDS Multi-AZ, CloudFront.
--  : Google Kubernetes Engine (GKE), Cloud Run, BigQuery.
--  : Infrastructure as Code multi-cloud à haute disponibilité.
+- `00-aws-architecture/` : VPC, EC2 Auto-Scaling, IAM, S3, RDS Multi-AZ, CloudFront.
+- `01-gcp-infrastructure/` : Google Kubernetes Engine (GKE), Cloud Run, BigQuery.
+- `02-multi-cloud-terraform/` : Infrastructure as Code multi-cloud à haute disponibilité.
 
 ---
 
